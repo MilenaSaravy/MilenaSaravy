@@ -2,7 +2,7 @@
 
 ## ִֶָ🪭𓂃 ࣪˖ ִִֶֶָ👩‍💻tech woman་༘࿐ 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A102C&width=435&lines=Estudante+de+Programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff0000&width=435&lines=Estudante+de+Programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 ##
 
 𓂃 ࣪˖ ִִֶֶEstudando atualmente SQL-C་༘࿐ 
